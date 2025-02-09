@@ -1,5 +1,7 @@
 ## Generate Barcode
 
+![alt text]([https://github.com/codemaverick80/barcode/public/barcode.png])
+
 ### Getting Started
 
 ```bash
