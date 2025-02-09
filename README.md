@@ -1,4 +1,6 @@
-## Getting Started
+## Generate Barcode
+
+### Getting Started
 
 ```bash
 pnpm install
