@@ -1,6 +1,6 @@
 ## Generate Barcode
 
-![alt text]([https://github.com/codemaverick80/barcode/public/barcode.png])
+![image description](https://github.com/codemaverick80/barcode/blob/main/public/barcode.png)
 
 ### Getting Started
 
